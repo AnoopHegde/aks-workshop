@@ -1,0 +1,6 @@
+https://www.linkedin.com/in/carlosalexei/
+https://github.com/carlosalexei/aks-workshop
+https://github.com/carlosalexei
+https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview
+https://azure.github.io/application-gateway-kubernetes-ingress/
+https://techcommunity.microsoft.com/t5/apps-on-azure-blog/application-gateway-for-containers-vs-application-gateway/ba-p/3914901
